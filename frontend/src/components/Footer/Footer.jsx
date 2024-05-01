@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.logo} alt="" />
+          <img src={assets.logo2} alt="" />
           <p>
             Explore our delicious menu and order your favorite meals for
             delivery or pickup. We're committed to bringing you quality food

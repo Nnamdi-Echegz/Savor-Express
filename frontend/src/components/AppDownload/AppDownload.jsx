@@ -6,7 +6,7 @@ const AppDownload = () => {
   return (
     <div className="app-download" id="app-download">
       <p>
-        For Better Experience, Download <br /> <span style={{color:"rgb(245, 44, 44)"}} >SavourExpress App</span>
+        For Better Experience, Download <br /> <span style={{color:"rgb(245, 44, 44)"}} >SavorExpress App</span>
       </p>
       <div className="app-download-platforms">
         <img src={assets.play_store} alt="" />
